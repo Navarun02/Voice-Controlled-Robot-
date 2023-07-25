@@ -14,3 +14,6 @@ We made the bot chassis using 5mm acrylic sheet 25cm x 20cm, used two 300 rpm 12
 ![54729397_269977917220912_4627514626475556864_n_269977787220925](https://github.com/Navarun02/Voice-Controlled-Robot-/assets/52436951/ab8e5d0b-2c67-4f45-9af2-2de5033b9343)
 
 ![vcb_radar](https://github.com/Navarun02/Voice-Controlled-Robot-/assets/52436951/b27f633e-5449-4169-bce3-952172a1a979)
+
+https://github.com/Navarun02/Voice-Controlled-Robot-/assets/52436951/eaca28f5-81b5-4582-8e8c-9507cc0b5a2b
+
