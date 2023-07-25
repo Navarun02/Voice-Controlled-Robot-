@@ -9,3 +9,6 @@ For voice recognition, we used the porcupine library. We trained the keywords li
 We made the bot chassis using 5mm acrylic sheet 25cm x 20cm, used two 300 rpm 12v dc motor, a L298N motor driver, arduino uno, a 11.1V 2200mAh Lipo battery, a power bank to power the arduino.
 
 ![20190824_155202](https://user-images.githubusercontent.com/52436951/148650498-42bc7b83-512a-47d3-a3ba-d892300c1ede.jpg)
+
+
+![54729397_269977917220912_4627514626475556864_n_269977787220925](https://github.com/Navarun02/Voice-Controlled-Robot-/assets/52436951/ab8e5d0b-2c67-4f45-9af2-2de5033b9343)
